@@ -3,4 +3,5 @@
 😎Sou aluno do Colégio Estadual Victor Bussmann  
 👀Meu email é: alisson.stormowski@escola.pr.gov.br  
 ✂estou fazendo curço de barbearia  
-👨‍🎓gosto muito de estudar 
+👨‍🎓gosto muito de estudar
+<img src"
